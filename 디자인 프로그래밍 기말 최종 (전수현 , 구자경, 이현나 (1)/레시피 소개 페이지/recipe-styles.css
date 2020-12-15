@@ -1,0 +1,194 @@
+*{
+
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+body a{
+	text-decoration: none;
+
+}
+
+.navbg{
+  height: 80px;
+  background-color: #484848;
+}
+
+.navbox{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle; 
+}
+
+.menubox{
+  float:right;
+  padding-top: 30px; 
+  margin-right: 80px;
+}
+
+.menu{
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight:  100; 
+  margin-right: 40px;
+}
+
+.logo{
+  float: left;
+  color: white;
+  font-size: 32px; 
+  padding-top: 18px; 
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight:  700;
+  padding-left: 80px;   
+}
+
+
+
+
+
+.logo hover a:{
+  background-color: #ffffff;
+}
+
+nav{
+	width: 100%;
+}
+.background-food img{
+
+	width:100%;
+	height: 720px;
+}
+
+.food-name{
+
+	font-size: 48px;
+	text-align: center;
+	margin-top: 200px;
+	font-weight: 700;
+}
+
+
+.food-content{
+
+	width: 50%;
+	height: 300px;
+	margin-top: 40px;
+	text-align: center;
+	display: inline-block;
+	padding-top: 60px;
+	margin-right: auto;
+	margin-left: auto;
+	border-right: 2px solid gray;
+	font-weight: 24px;
+
+}
+
+.food-content h1 , .food-material h1  {
+
+	padding-bottom: 20px;
+
+
+}
+
+
+
+.food-material{
+	width: 50%;
+	height: 300px;;
+	margin-top: 40px;
+	text-align: center;
+	display: inline;
+	padding-top: 60px;
+	float: right;
+
+}
+
+
+.food-main {
+
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 80px;
+	text-align: center;
+	width: 1340px;
+
+}
+
+.food-main img{
+	padding-top: 40px;
+	width: 814px;
+	height: 643px;
+}
+
+.food-box h1{
+	font-weight: 700;
+}
+
+.food-box{
+	margin-top: 120px;
+}
+
+
+.food-box p {
+
+	padding-top: 40px;
+	font-size: 25px;
+	font-weight: 300;
+}
+
+.footer{
+
+  margin-top: 260px;
+  background-color: #E6E6E6;
+  height: 320px;
+  width: 100%;
+  text-align: left;
+  display: inline-block;
+
+}
+
+.footer img{
+  float: right;
+  padding-top: 120px;
+  padding-right: 200px;
+  
+}
+
+.footer-text{
+
+  padding-top: 80px;
+  display: inline-block;
+}
+
+.footer-text p{
+
+  padding-top: 30px;
+  border-top: 1px solid gray;
+  margin-left: 120px;
+  text-align: left;
+  font-size: 16px;
+  
+  
+
+}
+
+.footer-text h3{
+
+  padding-bottom: 20px;
+  margin-left: 120px;
+  font-weight: bold;
+  font-size: 20px;
+	
+}
+
+
+

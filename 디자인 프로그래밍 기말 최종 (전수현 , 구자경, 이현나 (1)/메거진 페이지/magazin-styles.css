@@ -1,0 +1,183 @@
+*{
+	font-family: 'Nanum Gothic', sans-serif;
+	margin: 0;
+	padding: 0;
+  box-sizing: border-box;
+
+}
+
+body a{
+
+	text-decoration: none;
+
+	
+}
+
+.navbg{
+  height: 80px;
+  background-color: #484848;
+}
+
+.navbox{
+  width: 1519px;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle; 
+}
+
+.menubox{
+  float:right;
+  padding-top: 30px; 
+  margin-right: 80px;
+}
+
+.menu{
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  padding: 10px;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight:  100; 
+  margin-right: 40px;
+}
+
+.logo{
+  float: left;
+  color: white;
+  font-size: 32px; 
+  padding-top: 18px; 
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight:  700;
+  padding-left: 80px;   
+}
+
+
+/* 상단슬라이드 */
+
+.carousel-item , .carousel-item-active img{
+
+	width: 100%;
+}
+
+.carousel-caption h5{
+
+	font-size: 32px;
+	margin-bottom: 80px;
+
+}
+
+.carousel-item img:hover{
+
+	filter: brightness(40%);
+	
+}
+
+
+h1{font-size: 50px;
+  color: #484848;
+  text-align: center;
+  font-weight: 700;
+  margin-top: 200px;}
+
+p{text-align: center;
+color: #484848;
+font-size: 20px;
+}
+
+.main-content {
+
+	
+	overflow: hidden;
+	display: inline-block;
+	text-align: center;
+
+}
+
+
+
+
+
+
+.main-content p{
+
+	padding-top: 40px;
+	
+}
+
+.magazin-content {
+
+	padding-top: 40px;
+	display: inline-block;
+	text-align: center;
+	padding-right: 16px;
+}
+
+.magazin-content h2{
+
+	padding-top: 20px;
+	font-size: 20px;
+	font-weight: bolder;
+}
+.magazin-content img {
+
+	width: 662px;
+	height: 420px;
+	overflow: hidden;
+	
+}
+
+.magazin-content img:hover{
+
+	filter: brightness(40%);
+	transform: scale(1.1);
+  	transition: transform 1s;
+  	
+  	
+}
+
+
+
+
+
+
+.footer{
+
+  margin-top: 260px;
+  background-color: #E6E6E6;
+  height: 320px;
+  width: 100%;
+  text-align: left;
+  display: inline-block;
+
+}
+
+.footer img{
+  float: right;
+  padding-top: 120px;
+  padding-right: 200px;
+  
+}
+
+.footer-text{
+
+  padding-top: 80px;
+  display: inline-block;
+}
+
+.footer-text p{
+
+  padding-top: 30px;
+  border-top: 1px solid gray;
+  margin-left: 120px;
+  text-align: left;
+  font-size: 16px;
+  
+  
+
+}
+
+.footer-text h3{
+
+  padding-bottom: 20px;
+  margin-left: 120px;
+  font-weight: bold;    
